@@ -11,5 +11,11 @@ module.exports = {
       throw Error('⚠️ Android only supported ⚠️');
     }
     return ImageIntent.getImageIntentBase64();
+  },
+  getImageIntentUrl() {
+    if (Platform.OS !== 'android') {
+      throw Error('⚠️ Android only supported ⚠️');
+    }
+    return ImageIntent.getImageIntentUrl();
   }
 };
