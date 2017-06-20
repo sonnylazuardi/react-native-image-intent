@@ -4,6 +4,11 @@ react-native-image-intent
 
 🔬 Image intent receiver for React Native android
 
+![demo](https://media.giphy.com/media/3oKIPgUzGIHU5rVXdC/giphy.gif)
+
+[![download](https://lh3.googleusercontent.com/v8DXc8EpIgPZCFJSJcE8me4_-PCnAZSTSm-eq5ZtCIA=s0 "google play")
+](https://play.google.com/store/apps/details?id=info.mejamakan.floatingview)
+
 ## Installation
 ```
 npm install --save react-native-image-intent
