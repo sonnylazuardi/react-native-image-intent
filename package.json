@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "description": "Image intent base64 receiver for React Native Android",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonnylazuardi/react-native-image-intent"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "image-intent",
+    "image"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
-  "keywords": [
-    "taplak"
-  ],
   "author": "sonnylazuardi",
   "license": "MIT",
   "dependencies": {
