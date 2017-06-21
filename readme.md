@@ -2,7 +2,7 @@ react-native-image-intent
 ===============
 [![npm version](https://badge.fury.io/js/react-native-image-intent.svg)](https://badge.fury.io/js/react-native-image-intent)
 
-🔬 Image intent receiver for React Native android
+🔬 Image intent receiver for React Native android. This allows react native app to receive data (image) from other app https://developer.android.com/training/sharing/receive.html.
 
 ![demo](https://media.giphy.com/media/3oKIPgUzGIHU5rVXdC/giphy.gif)
 
